@@ -1,0 +1,6 @@
+project/
+├── main.py
+├── templates/
+│   └── form.html
+├── static/
+└── __init__.py
